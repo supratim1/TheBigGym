@@ -1,2 +1,3 @@
 # TheBigGym
-A end to end gym web app
+A end to end gym web app.
+Using React, firebase...
